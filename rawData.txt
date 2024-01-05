@@ -1,0 +1,851 @@
+Gym 
+Key:
+|| = continuing from above 
+# = comment or number of plate 
+pd = pull-down 
+pu = pull over 
+wu = warm up
+F = to failure 
+, = separates sets 
+SS = superset  
+ea = each 
+SA = single arm or single leg 
+sup. = supported 
+uh = underhand 
+oh = overhead or overhand 
+cb = cross body 
+cg = close grip 
+wg = wide grip
+ins = inside, usually referring to grip
+bw = body weight 
+hs = hammer strengths 
+cb = cross body 
+
+Workouts:
+9-5-22
+Dumbbell press flat 35 
+Cable row 70
+Bench dip 
+Barbell curl 50
+Shoulder press machine 45 ea 
+Plate raise 25
+Tricep rope push down 32.5 
+Single arm tricep push down 12.5
+
+9-20-22
+Bench press flat 105 7,7,6,5
+Cable row 85  9,7,7,6
+Lat pull down (side grip) 85 10,8,7,7 
+Barbell curl 50 12,7,8
+Waiter curl 40 4,6,5 
+Cable shoulder raise 7.5 13,14,9,8
+Tricep push down bar 32.5 14,15,10
+Tricep push down rope 32.5 9,9 
+
+9-26-22
+Bench 105 10,7,6,5
+Bent over row 95 11,8,8 
+Lat pull-down (side grip) 85 7,8,7,5
+Seated barbell shoulder press 65 6,6,4 
+Arnold press 25ea 9,9,9
+Ez bar curl 50 7,7,7
+Tricep push down 32.5 10,15,13,10
+
+10-03-22
+Bench 105 7,8,7,7
+Cable row 85 9,8,8,8 
+Lat pull-down (side grip) 85 10,8,7,9
+Bench dip 0 20,15,11,
+side shoulder cable raise 7.5 11,12,10,10
+Barbell curl 50 12,9,7,8
+Tri push down 32.5 11,12,12 
+Waiter curl 35 12,12,10
+
+10-18-22
+Bench 100 8,8,7
+Bent over row 85 12,10,8,8
+Lat pull down (side grip) 85 8,8,7
+Seated tri extensions 35 13,7
+Tricep pushdown 30 13,12,10
+Dumbbell shoulder lateral raise 10, 12,10
+Cable shoulder raises 7.5 14,13,9
+Barbell curl 50 14,10,8,7
+Good mornings 95 7,8,8
+Back extensions 0 10,10,10
+
+10-25-22
+Chest fly machine 100 10
+Bench 115 6,5,5,5
+Row machine 45ea 10,10,10,9
+Lat pull down (side grip) 85 8,8,8
+Shoulder raises 10 16,13,12,12
+Tricep pushdown triangle 30 15,15,15,11,10
+Barbell curls 50 10,9,8
+Hammer cross body curls 20ea 10,10,8
+
+11-2-22
+Bench 115  7,6,6, 95-8 
+Cable row 85 10,10,9,9 
+Lat pull down (normal) 85 8,7,7,7
+Cable Shoulder raises 7.5ea 10,12,12,8
+Tricep rope pushdown 30 17,12,9, 20-15
+Barbell curls 50 12,6,5,9
+
+11-21-22 
+Bench 105 8,8,7,6
+Cable row 85 12,10,8,8
+Lat pull-down 80 6,8,7,6
+Cable shoulder raise 7.5ea 15,13,10
+Tri rope pull-down 30 26,21 32.5 16,15
+Barbell curl 50 12,10,9
+
+#7 month hiatus here
+
+06-23-23 
+Bench 115 8,8,7,
+Tri pull 50 15,16,15
+Cable row 90 13,7,6
+
+06-26-23 
+Bench 115 7,7,6 
+Cable Row 75 10, 90 10,8,11
+Lat pull down 60 10, 75 8,8
+Barbell curl 50 11,9,
+
+06-28-23 
+Bench 115 10,10,8
+Cable shoulder raise 10 15,12,11
+Bent over row 65, 10 85 11,11
+Barbell curl 50 12,8,8
+Tri pull 30 17,18,15
+Seated tri ext 35 11,
+Seated bench machine 45ea 17,12
+
+07-01-23 
+Bench 115 7,7,7
+Chest fly machine 70? 8,10,9
+Cable row 75 12, 90 14,11,11
+Lat pull-down 60 7, 75 7,8
+Barbell curl 50 13,10,8,8
+Tru push 50 20,20,16
+Cable shoulder raise 10 18ea,16,13
+
+07-03-23
+Chest fly machine 70? 15,10,7
+Cable row 75 15, 90 14,10,10
+Cable shoulder 10ea 20, 20eq 11,10
+Tri bar pushdown 50 25,30,20
+Waiter curl 35 20,11,13,12 
+
+07-05-23 
+Bench machine 45ea 15, 70ea 12,12,10
+Barbell bent over row 95 12,10,9
+Cable front/side shoulder 10ea 20,15,15,
+Tri bar pushdown 50 30, 60 23,12,20
+Barbell curl 50 14,8,7
+Waiter curl 35 8,9,
+Tri bar pushdown finisher 60, 10,7
+
+07-07-23 
+Bench 115 wu,10,7, 135 6,4
+Cable row 90 wu,10,9,8
+Dumbbell shoulder press 25 14,10,10
+Concentration curl 25ea 9ea,8,6
+Tri bar push 60 16,17,12,13,15, 
+|| 70 17,
+|| 80 12,
+Shoulder cable raise 10 16,15,13
+Waiter curl 35 20,12,10
+Seated tri ext 35 13,12
+
+07-10-23 
+Bench 135 wu,7,6,5
+Bench machine 55ea wu,10,8,8
+Cable row 90 12,12,12,10
+Barbell curl 50 11,8,7
+Seated dumb sh press 25 10,10,10
+Tri pushdown 70 13,11,12
+|| single arm underhand 30 9
+
+07-12-23
+Bench 135 7,5,5
+Bent-over Barbell row 95 10,9,8
+Chest fly machine 70? 15, 85? 7,8
+Lat pull-down machine 70ea 7ea, 
+|| 60ea 8ea, 7ea
+Front delt plate raise 25 13,12,
+Incline bench curl 25ea 8ea,8ea,6ea
+Tri push triangle 60 31, 80 15,12,12
+Sh cable raise 20 11,8,11
+Waiter curl 35 20,14,10
+
+07-14-23 
+Bench 135 8,6,6,5
+Incline bench machine 65ea 12ea,15,12
+Cable shoulder raise 20 15,12,10
+Tri push 60 15, 70 19,20,15
+Cable curl 60 wu,10,
+Strict Barbell curl 50 10,8,7
+Waiter curl 30 15, 35 15,12,12
+
+07-16-2023 
+Bench 135 8,6,6,6
+Cable row 105 13,10,8
+Cable shoulder raise 20 12,12,10
+Machine fly 90? 15,12,10
+Tri push 70, wu,17,16,10
+Cable curl 60 wu,13,14,12
+Waiter curl 35 10,11,10
+
+07-18-23
+Bench 135 wu,7,6,5
+Cable chest fly 30ea 8ea,12,13
+Lat pull machine 70ea 7ea,7,6
+Cable row close grip 90 10,15,11
+Tri push 70 wu,13,15
+Barbell curl 50 15,12,9
+Shoulder cable raise 20ea 13ea,14,11
+Overhead Tri ext 35 14,12
+
+07-20-23
+Bench 135 wu,8,7,6,5
+Barbell bent row 95 10,9,8
+Incline bench mach 65ea wu,12,12,10
+Single rope tri 30ea 15,12,11
+shoulder bench mach 25ea 11,11.5,10,10
+Curl machine 70 wu,7,6,5, 45 9,
+Tri push (bar) 70 23,12
+
+07-22-23 
+Bench 135 wu,8,7,6,5
+Cable chest fly 30ea 13ea,13,
+Shoulder press Mach 25ea 12,14,11
+Curl machine 65 12,8,8
+Skull crushers bar 30 13,14,14
+Cable sh raise 20ea 14ea
+
+07-25-23 
+Bench 135 wu,8,6,5,4
+Dec bench mach 65ea wu,12,10ea,10
+Lat pd row mach 65 wu,8,8,10
+Shoulder press mach 25 18,13,15,12
+Tri rope 30(rt) 20,13,10
+Preacher mach 65 13,10,7,8
+
+07-27-23 
+Bench 135 9,7,5,
+Inc bench mach 45ea 8,8,8,8,
+Cable row 105 wu,15,11,8,
+Shld press mach 35ea wu,8,9,8
+Bench dip bw 22,17,
+Single arm tri rope 30 wu,15,13,14
+Preacher mach 60 wu,12,9,8
+
+07-29-23 
+Bench 135 wu,7,6,6,5
+Barbell row 95 16,13,11,10
+Cable chest fly 30ea 15,17,14,14
+Dec bench mach 70 15,15,12
+Shld press mach 35 13,11,8
+Cable shld raise 20 13,11,9
+Single arm tri rope 30 21,20,15,15
+Barbell curl 50 17,10,11
+Preacher mach 55 13,9
+
+07-31-23 
+Bench 135 wu,8,6,5
+Cable row 105 wu,14,11,9
+Mach lat pd 60 wu,10,11,10
+Dec bench mach 65 wu,14,12,13
+Cable shld raise 20 16,12,10
+Single arm tri rope 30 21,
+|| 40 13,10
+Preacher mach 65 11,9,8,8,7
+
+08-03-23 
+Bench 135 wu,8,6,6,5
+Cable row 105 wu,13,10,9
+Lat row pd Mach 65ea wu,9,14ea,9
+Dec bench mach 70ea wu,15,16,13
+Shld press Mach (sa)35ea 11ea,8,8
+Cable shld raise 20ea 13,12
+Tri sa pd rope 30ea 20ea,
+|| 40ea 10
+Overhead tri ext 35 15,12
+Preacher curl 55 15,12,8,8
+
+08-05-23 
+Bench 135 wu,5,5,5,4
+Barbell bent row 95 16,16,12
+Cable row 105 wu,12,11,11
+Incl bench mach 55ea wu,8,9,8
+Shld cable raise 20ea 16,14,10,10
+Barbell curl 50 12,14,7,7
+
+08-07-23
+Bench 135 wu,7,6,5,6,5
+Lat pd mach 65ea 6ea,6,6
+Shld press mach 35ea 13ea,10,11
+Dec bench mach 70ea wu,10,13,10ea
+Preacher mach 70 9,9,6
+Single arm tri rope 40 wu,10,8
+Skull crushers 35 17,12,10
+Barbell curl 50 20,10,12
+
+08-09-23
+Bench 135 wu,6,6,5
+Barbell bent row 115 wu,10,12,12,9
+Dec bench mach 80ea wu,wu,14,12,13
+Shld cable raise 30 wu,6
+Shld fly mach 10ea 10,7,12
+|| 20ea 10,10,
+Barbell curl 50 18,12,14,10
+
+08-11-23
+Bench 135 wu,8,6,5,6
+Romanian deadlift 135 wu,9,10,
+Inc bench mach 55 wu,8,9,8
+Cable row (low) 105 14,13,13,12
+Sh cable raise 20ea 17ea,15,11
+Skull crusher bar 30 27,22,11
+Barbell curl 50 18,14,12
+Preacher mach 55 9,7
+
+08-13-23 
+Bench  135 wu,6,6,6
+Cable row 105 wu,17,16,13
+Sh fly mach 15ea wu,14,9,
+|| SA 14ea,14ea,14ea
+Waiter curl 35 17,15,14,13
+|| SS Skullcrushers 40 16,12,12
+Tri bar pd 80 17,13,14
+Bar curl 50 19,14,12
+
+08-17-23 
+Bench 135 wu,5,7,6
+Bent bar row 115 wu,13,12,10
+Inc bench mach 55ea 12ea,10,8
+Cable sh raise 20 11,11,12
+Skulls bar 40 19,12,8
+Bar curl 50 20,14,6
+
+08-19-23
+Bench 135 wu,7,7,6
+Romanian dead 135 wu,7,7,8
+Cable row 105 wu,15,10,10
+Shld fly mach 15ea 15,20,16,15,13
+Dec bench mach 70ea 15,14,12
+Tri dip machine 45ea 22,17,22
+Skulls 40 15,12,10
+Seated tri ext finisher 35 18,13
+Bar curl 50 15,14
+|| 50 20,9(slow),10
+Preacher curl mach finisher 50 15,12,
+
+08-21-23
+Bench 135 wu,7,6,7
+Row mach 55ea 11,12,15,11
+Inc bench mach 55ea wu,9,9,9q 
+Sh fly mach 20ea 10,15,17,14,13
+Cable sh raise finisher 20ea 10,10
+SA Tri rope pd 35 wu,18,15,11
+Bar curl 50 19,13,9,10
+Preacher mach finisher 55 11,10,11,10
+Skull finisher 40 15,8
+|| SS w Conc. curl 30 8,8
+Dip Mach 45ea 29,15
+
+08-23-23 
+Bench 135 wu,7,6,6,5
+Romanian dead 135 wu,5,4
+Overhead row mach 70ea wu,12,10,10
+Sh fly mach 20ea 13ea,15,13,12,12,14,13
+Dec bench mach 70ea 19,15,12
+Tri pd bar 70 wu,12,18,14
+SA Overhead tri cable ext 
+|| 20ea 15ea,13,11
+Strict Barbell curl 50 13,7,10
+|| non-strict 10,10
+Preacher mach 60 12,10,9
+Cardio 
+|| treadmill wu 
+|| 3.5inc 1.11m, 17:50, 
+
+08-25-23 
+Bench 135 wu,8,7,7,6
+Cable row 115 wu,12,10,8
+Row Mach wide 55 wu,15,14,15
+Norm bench mach 55ea wu,14,12,10
+Sh press mach 35ea 10,9,10
+Sh fly mach 20ea 15,13,12,8
+Cable sh raise 20ea 10,10
+DA overhead tri cable ext 40 12,17,15
+Skulls bar 40 10,8,7
+Bar curl 60 11,8,7
+Preacher Mach 60 10,9,9,9
+Leg raise Mach 40 12,13,12
+Cardio
+|| Treadmill around 15min and 1mi
+
+08-27-23 
+Cardio
+|| Treadmill 1.28 miles 
+Sh press mach 35ea 12,11,5
+Preacher Mach 55 16,11,6
+Skulls 40 wu,13,13,10
+
+08-29-23 
+Bench 135 wu,8,8,7,7,6
+Row Mach wide 80ea wu,9,9,9,7
+Inc bench 55ea wu,10,9,7
+Sh fly Mach 20ea 
+|| v slow ec 13,10,7,7
+Front Plate raise 25 11,10,7
+Ez curl 60 9,8,7,6
+|| SS w Skulls 40 10,9,8
+SA Tri cable pd 30 22,13,11
+SA Cable curl 30 16,14,12
+Lower body:
+Leg raise Mach 40 15,11,11,10,11
+Leg curl Mach 120 wu,16,15,15
+
+08-31-23
+Bench 135 wu,9,8,9,8,5
+Bar bent row 115 wu,10,8,7
+Dec bench mach 70ea wu,17,13,12,12
+Cable sh raise 20ea wu,13,13,10,8
+SA Cable curl 30ea 19,15,12
+Cable overhead tri ext 40 wu,10,10,10,9,9
+Legs, Very Slow Eccentrics :
+Leg raise mach 50 12,11,10,9
+Leg curl mach 150 wu,10,10,7
+
+09-02-23 
+Bench 135 wu,6,7,6,7
+Cable row close 110 wu,10,9,9
+|| SA 60 5
+SA Sh press mach 35ea 12ea,12,9,8
+Cable rope overhead tri ext 
+|| 40 10,10,8,9,10
+SA Cable curls 30ea 12ea,10,8,6
+Preacher curl 60 8,7
+
+09-05-23 
+Bench 135 wu,6,7,6,7
+Bent row 115 wu,9,9,9,9,8
+Chest fly mach 110 9,8,6,6
+Overhead row mach 70ea 10,10,9,9
+Sh fly mach 20ea 12,12,13,13
+Dumbbell sh press seated 
+|| 30ea wu,12,10,11,10
+SA inc bench curls 30ea 7,6,7
+Overhead cable tri ext 40 20,11,11,9,9
+SA cable curl 30ea 19,14,11,12,11,11,11
+
+09-07-23
+# shoulders hurting esp after bench 
+Bench 135 wu,8,8,6,6
+Laying row lever wide 55 wu,8,8,7,7
+Inc bench mach 55 wu,9,10,7
+Cable lat pd in-grip 105 7,10,9,7
+Sh fly mach 20ea F,14ea,12,10,11,10
+Skulls 40 14,9,9
+SA Cable tri kickback 20 10,10
+Bar curl 60 12,7,5,5
+SA Cable curl 30 8,11,11,11,10,10
+Leg curl 150 15,11
+Leg ext 40 8,16,15,15
+
+09-09-23 
+Dec bench mach 70ea wu,16
+|| 80ea 11,12,12
+Smith sh press 50 12,10,9
+Preacher mach 60 16,12,6
+Seated tri ext 35 18,11,10
+Waiter curl 40 11,10,10
+
+09-11-23
+Bench 135 wu,8,7,8,7,5
+Bent row 115 wu,8,7,7,7
+Inc bench mach 60ea 8,8,8,6
+Smith sh press 50 12,10,9
+Skulls 40 wu,10,10,10,9
+Ez bar curl 50 13,12,10,8 
+Waiter curl 35 13,14,14
+
+09-13-23
+Dec bench mach 75ea wu,15,14,15,14,14
+|| 80ea 13
+Bench 140 wu,7,6,6,5
+Chest sup. row 60 11,9,9,8,7
+Lat row Mach 70ea 8,8ea,7ea
+Smith sh press 50 12,10,8,8
+Overhead cable tri ext 
+|| 40 21,15,13,14,12,12,13
+|| 50 12,11,11
+|| 60 9,8
+SA cable curl winged 30 10,12,12
+Ez bar curl 50 8,9,8,7
+
+09-16-23
+Bench 140 wu,7,7,7,8,6
+Bar row uh 115 13,10,9,10
+Chest fly mach 110 10,10,7,6
+Lat pu mach #8 wu,10,7,5
+Sh press mach 25ea 16,14,10,13
+Oh cable tri ext 50 wu,12,12,10,9
+SA Cable rope cb curl 30 17,15,12,10
+Bar curl 50 10,10,8,7,7
+
+09-19-23
+Bench 140 wu,7,7,6,7
+Dec bench mach 75ea wu,12,10,11,11,11
+Chest sup row 65 8,8,8
+|| closer grip 8,6
+Smith sh row 50 10,10,10,8
+SA Sh cable raise 20 11,16,10
+SA Cable kickbacks 20 12,12
+SA Oh cable tri ext 20 12,11
+Skulls 40 10,11,9
+Ez bar curl (v slow) 50 11,9,7
+Preacher mach 55 13,12,9
+Leg ext 40 15,18,13,13
+
+09-21-23 
+Bench 140 wu,7,6,7,5
+Inc bench mach 55ea wu,9,8,8
+Cable row (strict) 105 9,8,9,9
+Plate raises 25 13,10,8
+Cable Lat pd ins 105 wu,10,8,9,6
+SA Cable sh raise 20 19,11,10,10
+OH Cable tri ext 60 wu,11,8,9
+Cable tri rope pd 60 9,10,11
+SA Cable curl 30 22,15,12,13
+Leg ext 40 17,18,16,17,12,11
+
+09-23-23 - tired 
+Bench 140 wu,8,7,6,6
+Dec bench mach 75ea wu,9,10,12,13
+Chest sup row wide 65 wu,9,7,7,5
+Cable lat pd ins strict 90 wu,8,8,8,8
+SA Front delt cable raises 20 19,15,13
+Skulls 40 14,11,9,8
+SA tri rope pd 30 13,14
+|| 40 7
+|| DA 60 11,12
+Ez bar curl 60 10,9,7,6
+SA Cable curl 30 13,13,12
+Preacher mach 55 9
+
+09-28-23 
+Bench 145 wu,7,6,7,6
+Chest sup row close 65 wu,8,6,6
+Inc bench mach 55ea wu,9,8,7
+SA Cable sh raise 20 15,12,10
+Cable lat pd ins 105 wu,7,7,7
+DA OH cable tri ext 60 wu,10,8,6,7
+|| 50 9,7,7
+SA cable curl 30 20,15,11,12,11
+
+09-30-23
+Bench 145 wu,5,6,7,5
+Bent bar row uh 115 wu,8,7,7
+Cable lat pd ins 105 wu,6,8,7,7
+Dec bench mach 75ea wu,10,10,9,8
+Smith sh row 60 wu,12,9,9
+SA cable tri pd 40 wu,9
+|| DA 60 11,8,8
+Bar curl 60 11,9,5
+
+10-03-23 - not full send, felt weak
+Bench 145 wu,8,6,6,4
+Inc bench mach 55 wu,7,6,7,6
+Chest sup row wide 55 wu,9,9,7
+Smith seated sh press 50 12,8,6.5,5
+Cable rope lat pd 70 wu,11,9,8
+Cable lat pd ins 90 wu,11,12
+|| 105 7,7
+Bench dips 12,10,10
+Seated OH tri ext 35 11,11,10
+SA Tri rope pd 30 9,8
+|| DA bar 60 15,11
+Ez bar curl 60 13,9,6
+SA Cable curl 30 10,11,8
+Leg ext 40 18,17,10,~10
+|| SA 30 10,9
+
+10-05-23 - Chest still sore I think
+Bench 145 wu,6,6,4
+Bar row OH 115 wu,8,8,8,8
+Cable lat pd wide 90 wu,4,9,12,10
+SA fly mach 20 8ea,8,12,12,12,11.5,11
+Sh barbell row 55 wu,12,11
+|| 65 10,9,10
+Skulls 40 wu,12,9,8
+DA OH cable tri ext 50 wu,12,11,9,11
+SA Cable curl 30 20,14,14,10
+Preacher mach 60 11,8,10
+Leg ext 40 wu,12,15,14,11
+
+10-06-23 - fresh
+Bench 145 wu,10,8,6,6
+Bar row uh 115 wu,9,9,8,7
+Chest fly mach 110 7,8,8
+Cable lat pd ins 105 wu,7,9,9,11
+|| 120 7,6
+SA Db sh press 30 wu,8,8,9,9,9
+|| 40 5
+Dips bw 8,8,8,6,4
+DA Tri cable rope pd 30 (=60) 
+|| wu,14,10,9,11
+Seated db curl 30 10,7,5,7,7,6
+Preacher mach 60 12,11,10
+|| 65 8,9 70 8
+
+10-10-23
+Bench 145 wu,8,6,6,5
+Dec bench mach 80ea wu,9,10,12
+|| 90 10,10,5
+Chest sup row 65 8,8,7,7
+Sh bar press 55 9,7,6,8
+Cable lat pd wide 105 8,9,9
+Tri rope cable oh ext 60 13,10,7,9,8
+SA Cable curl 40 wu,14,10,9,8
+Dips bw 11,7,8,6
+Ez bar curl 60 10,7,8,6
+Leg ext 60 wu,12,12,11,10
+
+10-17-23 
+Bench 145 wu,7,6,5
+Inc bench mach 55 wu,9,10,7
+Sh cable raise 20ea 12,10,8
+Cable lat pd wide 105 wu,9,8,6
+Ez bar curl 60 9,8,7
+DA Tri oh ext 60 wu,8,10,8
+
+10-19-23
+Bench 145 wu,8,7,7
+Bar row uh 115 wu,8,8,7,7
+Dec bench Mach 90ea wu,10,8,8
+Cable Lat pd ins 105 7,10,8,7
+Smith sh press 60 wu,11,8,9
+Seated oh tri ext db 40 wu,12,12,11
+Bar curl 60 10,8,7
+Preacher mach 60 12,10,11,9
+
+10-24-23 
+Bench 145 wu,7,7,6
+Inc hs 55ea 9,9 || 65 8,6
+Back fly mach 5th 7,6,5
+Cable row 105 wu,12,10,8
+Cable lat pd wide 105 wu,9,8.5,8,7
+Cable side sh raise 20 12,12,9,9
+DA oh tri ext 60 wu,10,8 || 50 10,7
+Ez bar curl 60 11,8,8,7
+
+10-26-23 3:00
+Bar row oh 115 9,9,9,8
+Bench 145 wu,7,6,6,4
+Dec hs 90ea 13,12 || 100ea 8,9,10,6
+Smith sh press 50 8,10,9,8,7
+Cable lat pd 105 wu,10,8,7
+Bench dips bw 14,16,16,16,15
+SS Bar curl 60 12,9,8,9
+Preacher mach 70 11,7
+4:42 
+
+10-31-23 1:45
+Bench 145 wu,8,8,6 || 135 8
+Inc hs 55ea wu,9,9,10,8
+Cable row wide 105 wu,12,10,10,8
+Cable lat pd 105 wu,6,8,9,7
+Db sh press 40ea wu,8,8,7,6
+DA Tri pd triangle 70 wu,12,16,13,13
+SA Cable curl 40 wu,13,9,10,11
+Preacher 70 8
+3:20
+
+11-02-23 2:45 
+Bench 145 wu,8,8,6,5 || 135 7
+Chest fly mach 9th wu,7,8,8,5
+Cable row wide 105 13,11 120 || 8,7.5
+Cable lat pd 105 6,10,8,6
+Smith sh press 50 8,8,5.5
+DA OH Tri ext cable 60 wu,10,9,9,10,11
+SS ez bar curl 60 13,8,9,8
+Preacher mach 65 10,8,9,8
+SS Bench Dips 21,17,14
+4:45
+
+11-07-23 1:45 
+Bench 145 wu,7,7,7,5 || 135 6
+SA Chest fly Mach 9th 8,10-7,8
+Dec hs 90ea wu,11,11 || 100ea 9,8
+Cable row wide 105 wu,9,9,11,11,7
+Cable lat pd ins 105 wu,11,10,11,8
+Smith sh/v Inc press 70 8,8,4 || 50 8
+OH DA tri ext cable 60 wu,10,10,8
+SA Tri rope pd 30 10,14 || 40 10
+Ez Bar curl 60 9,8,8
+Conc curl 30 6.5,5.5,6
+3:50
+
+11-10-23 9:30
+Bench 145 wu,9,6,6
+Smith Inc bench 70 wu,6,11,10 || 90 8,8
+Row Mach 90ea wu 8,9,8,5
+Cable lat pd 105 11,9,7
+DA Front cable sh raise 30 16,13,15,12
+SA tri rope pd 30 10,11,11,7
+Bar curl 60 10,7,9,8
+SS skulls 40 14,10
+Preacher mach 70 9,7,7
+11:22
+
+11/14/23 2:00
+Treadmill warm up 
+Bench 145 wu,7,6,5 || 135 7
+Inc hs 55ea 8,9,8
+Dec hs 100ea wu,8,7,9
+Cable row wide 105 wu,12,10,11
+|| 120 8,6,7,8
+Cable lat pd ins 105 6,11,10 || 120 8
+Sh press mach 35s 10,9,8,8,6
+Skulls 40 12,13 || 50 10,9
+Conc curl 30 10,10,7
+4:15
+
+11-21-23 2:40
+Bench 145 wu,9,8,8 || 160 5,5 || 135 6
+Smith Inc bench 70 wu,8 || 90 9,8,7,7
+Cable row wide 120 wu,10,9,8 || 105 7
+Cable lat pd ins 120 wu,8,8,7,7
+Db sh press 40s 8 || 35s 7,6,6
+Skulls 50 10,9,7
+DA tri tri pd 70 F
+Ez curl 60 11,10,7
+Conc curl 30 F
+4:40
+
+11-28-23 3:15
+Bench 165 wu,8,6,4 || 155 5 || 135 6
+Smith Inc bench 90 wu,10,8,8,7
+Smith sh press 60 4,7,6
+Cable row wide 120 wu,9,10,8,8
+SA Cable Rope lat pd 40 10,10,10
+SA Tri rope pd 40 11,8,7
+Ez bar curl 60 12,12,9
+Conc curl 30 F 
+5:00
+
+#
+New Split:
+T, Th, Sat
+Tues-- Chest & Tris 
+Thur-- Back & Bis
+Satu-- Legs & Shoulders
+#
+
+12-5- 23 Tues 3:45
+Bench 160 wu,8,5 || 155 6,4 || 135 7
+Inc Smith bench 90 9,9 || 95 6,7
+Dec hs 90ea 8 || 100ea 8,8
+DA Tri Cable OH Ext 60 9,9,9 || 70 6
+SA Tri rope pd 40 9,9,8
+Skull 40 F 
+5:15
+
+12-7-23 Thurs 3:10
+Bar Row uh 135 wu,10,8,8,6
+Cable row 120 9,9,8,8
+Cable lat pd 105 wu,9,6,7,7
+Bar curl 60 9,7,7,7
+Conc 30 F
+Preacher mach 60 10,10 || 65 7,5.5
+4:35
+
+12-12-23 Tues 
+Bench 155 wu,6,6,4 || 135 7,6
+Inc hs 55ea wu,7,6
+Inc smith 90 9,9,7,6
+SA Tri rope pd 40 9,9,8
+SA cable kickbacks 30 8,8,10
+
+12-14-23 Thurs 4:00
+Chest sup row 60 wu,8,7,7 45 || 8
+Cable lat pd wide strict 105 8,8,7,6.5,8
+Cable row 120 9.5,7,8
+Ez bar curl 60 10,8,6.5
+Conc curl 25 9.5,10,7.5
+Preacher Mach 65 10,7,6.5,6
+5:15
+
+12-19-23 Tues 12:15
+Bench 160 wu,7,6,5 || 155 5 || 135 6
+Inc smith 90 wu,10,7,9,8,6
+Def hs 100ea wu,11,11 || 115ea 8,7,5
+Skulls 50 wu,11,9,10,9
+SA tri pd 40 7,7,7,7
+2:00
+
+12/22/23 Fri 4:30
+Bar row uh 135 wu,9,8,6
+Row mach 90ea 6,9,9,7
+Cable lat pd strict 105 wu,8,7,8
+|| ins 120 5,6,7
+SA cable curl 40 10,10,10,7
+SA cb hammer cable curl 40 7,8,7,6
+5:45
+
+12/26/23 Tues 3:45 
+Bench 165 wu,7,6,4 || 155 6 || 135 7
+Inc smith 100 wu,9,7,8,8
+Dec hs 115 ea wu,8,8,6
+Skulls 50 16,12,11,9
+SA cable kickbacks 30 F
+5:05 
+
+12/28/23 Thurs 2:30
+Row mach 90 wu,10,9,9
+Oh row mach 75ea wu,10,10,9
+Cable row 120 wu,10,9,8.5
+Cable lat pd cg 105 wu,8,9
+|| ins grip 120 7,6 || 105 9
+Conc curl 25 8,8,8,6
+Hammer curls 30ea 5,5
+Preacher mach 60 11,9,8,8,7
+3:45 
+
+12/30/23 Sat 1:15 
+Back squat 115 wu,5,5,4
+# sh pain 
+Smith sh press 70 wu,9,9,6 || 60 8
+Leg ext mach 50 wu,12,12,11,13
+DA Cable sh front raise 40 12,11,10
+2:10
+
+01/02/24 Tues 2:15 
+Bench 155 wu,7,7,6,6,6 || 135 5
+Inc smith 100 wu,9,9,8,7
+# sh pain 
+Skulls 60 13,9,8
+SA Cable pd 40 10,11,8.5,8
+Oh db tri ext 40 15F
+3:45
+
+01/04/24 Thurs 4:30
+Chest sup row 65 wu,10,8,9,8
+Cable Lat pd strict 105 wu,10,9,8,8
+Cable row wide 120 wu,11 || 135 8.5,6
+Ez bar curl 60 6,11,8.5,7
+Conc curl 25 6.5,8,8
+5:45
+
+
+
+
+
+
+
+
+
