@@ -8,3 +8,6 @@ To Do:
         dataframe and write that as a csv
     use pandassql to query this new neat dataset
         and make visualizarions from it 
+
+One Day:
+    make an app or web app to record this gym data 
