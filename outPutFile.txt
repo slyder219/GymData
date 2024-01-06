@@ -1,11 +1,10 @@
 9-5-22
-Dumbell Flat Bench Press 35 
+Dumbell Flat Bench Press 35
 Cable Row 70
-Flat Bench Press Dips 
 Barbell Curl 50
-Shoulder Press Machine 45 ea 
+Shoulder Press Machine 45 ea
 Front Plate Raise 25
-DA Tri PD 32.5 
+DA Tri PD 32.5
 SA Tri PD 12.5
 
 9-20-22
@@ -164,7 +163,7 @@ SA Cable Curl 60 wu,10,
 Barbell Curl 50 10,8,7
 Waiter Curl 30 15, 35 15,12,12
 
-07-16-2023 
+07-16-23 
 Flat Bench Press 135 8,6,6,6
 Cable Row 105 13,10,8
 SA Lateral Cable Raise 20 12,12,10
@@ -714,7 +713,7 @@ EZ Bar Curl 60 12,12,9
 Concentration Curl 30 F 
 5:00
 
-12-5- 23 Tues 3:45
+12-5-23 Tues 3:45
 Flat Bench Press 160 wu,8,5 || 155 6,4 || 135 7
 Smith Incline Flat Bench Press 90 9,9 || 95 6,7
 Decline HammerStrength 90ea 8 || 100ea 8,8
