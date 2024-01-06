@@ -156,8 +156,6 @@ def parseWorkout(workout):
     return output 
 
 
-
-
 def finalParsing(dataTxtFile):
     # Grab the content, this should have unique excersises
     with open(dataTxtFile, "r") as f:
@@ -190,4 +188,10 @@ def finalParsing(dataTxtFile):
     # make csv
     df.to_csv('DATAFRAME.csv', index=False)
 
-finalParsing("outPutFile.txt")
+
+for ea in dataToWorkouts("outPutFile.txt"):
+    print("START")
+    print(ea)
+    print("END")
+    print()
+    
