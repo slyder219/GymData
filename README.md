@@ -3,11 +3,12 @@ Done:
         manually did so with "similar" names as well
     replaced the names in the data with the new unique set
 
-To Do:
+Done as well now:
     parse through again and create neat pandas
         dataframe and write that as a csv
-    use pandassql to query this new neat dataset
-        and make visualizarions from it 
+    query this new neat dataset
+        
+         
 
 One Day:
     make an app or web app to record this gym data 
