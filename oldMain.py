@@ -1,5 +1,5 @@
-import pandas as pd
 
+#_______________________________________________________________________________________________________________________
 
 # function to remove anything but digits and commas
 def onlyDigAndCommas(string):
@@ -169,21 +169,15 @@ def parseLine(line, date):
             # should be triggered by a space so don't need to minus 1 
             break
     output.append(onlyDigAndPeriods(weight.strip()))
-
-    
-
-    # get reps
+  # get reps
     reps = ""
     # line from reps to end stripped
     
     lineRepsToEnd = lineWeightToEnd[endWeightIndex:].strip()
     reps = onlyDigAndCommas(lineRepsToEnd)
-
-
-    
+ 
     output.append(reps)
-    
-    
+ 
     return output 
 
 
@@ -247,17 +241,16 @@ def finalParsing(dataTxtFile):
     return df
 
 
-df = finalParsing("outPutFile.txt")
+# df = finalParsing("outPutFile.txt")
 
-def filterWhereXequalsY(df, x, y):
-    result = df[df[x] == y]
-    result = result.sort_values(by='Date')
-    return result
+# def filterWhereXequalsY(df, x, y):
+#     result = df[df[x] == y]
+#     result = result.sort_values(by='Date')
+#     return result
 
-def dfToCSV(df, fileName):
-    df.to_csv(fileName, index=False)
+# def dfToCSV(df, fileName):
+#     df.to_csv(fileName, index=False)
 
-print(
-    filterWhereXequalsY(df, "Exercise", "SA Tri PD")
-)
-
+# print(
+#     filterWhereXequalsY(df, "Exercise", "SA Tri PD")
+# )
