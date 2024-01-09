@@ -5,7 +5,7 @@ parsed raw data to get all unqiue names,
     
 replaced the names in the data with the new unique set
 
-Done as well now:
+Also done now:
 
 parse through again and create neat pandas
     dataframe and write that as a csv
