@@ -211,24 +211,34 @@ class gymDataProcessor():
         result = self.DATAFRAME[self.DATAFRAME[x] == y]
         result = result.sort_values(by='Date')
         self.latestResult = result
-        
+    
+    def printDATFRAME(self):
+        print(self.DATAFRAME)
+
+    def printLatestResult(self):
+        print(self.latestResult)
 
 
 
 if __name__ == "__main__":
     
-
-    finalRun = gymDataProcessor("outPutFile.txt") 
-    finalRun.finalParsing()
-
-   
-    finalRun.DATAFRAME
+    # create the object and give it the data 
+    gymData = gymDataProcessor("outPutFile.txt") 
     
+    # run its parse on the data to make us our DF
+    gymData.finalParsing()
 
+    # print the DF
+    gymData.printDATFRAME()
 
-    finalRun.filterWhereXequalsY('Exercise', 'Skull Crushers')
+    # Run a querry 
+    gymData.filterWhereXequalsY('Exercise', 'Skull Crushers')
 
-    finalRun.resultToCSV('SkullCrushers.csv')   
+    # print the result
+    gymData.printLatestResult()
+
+    # save result as a csv file 
+    gymData.resultToCSV('SkullCrushers.csv')   
 
 
     
