@@ -5,6 +5,7 @@ class gymDataProcessor():
     def __init__(self, dataFile):
         self. dataFile = dataFile
         self.DATAFRAME = pd.DataFrame()
+        self.latestResult = pd.DataFrame()
 
 
      # function to remove anything but digits and commas
@@ -200,13 +201,17 @@ class gymDataProcessor():
         self.DATAFRAME = df
         return df
 
-    def dfToCSV(self, fileName):
+    def DFToCSV(self, fileName):
         self.DATAFRAME.to_csv(fileName, index=False)
+
+    def resultToCSV(self, fileName):
+        self.latestResult.to_csv(fileName, index=False)
 
     def filterWhereXequalsY(self, x, y):
         result = self.DATAFRAME[self.DATAFRAME[x] == y]
         result = result.sort_values(by='Date')
-        return result
+        self.latestResult = result
+        
 
 
 
@@ -216,10 +221,14 @@ if __name__ == "__main__":
     finalRun = gymDataProcessor("outPutFile.txt") 
     finalRun.finalParsing()
 
-    print(
-        finalRun.DATAFRAME
-    )
+   
+    finalRun.DATAFRAME
+    
 
-    print(
-        finalRun.filterWhereXequalsY('Exercise', 'Flat Bench Press')
-    )
+
+    finalRun.filterWhereXequalsY('Exercise', 'Skull Crushers')
+
+    finalRun.resultToCSV('SkullCrushers.csv')   
+
+
+    
