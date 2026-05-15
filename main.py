@@ -186,7 +186,8 @@ class gymDataProcessor():
             # that output is a list of lists, each list is a row, and it is of one workout 
             # so we need to add it to the dataframe
             for row in output:
-                df = df.append(pd.Series(row, index=df.columns), ignore_index=True)
+                # OG script.. but deprecated now: df = df.append(pd.Series(row, index=df.columns), ignore_index=True)
+                df = pd.concat([df, pd.DataFrame([row], columns=df.columns)], ignore_index=True)
         
         # Dropping row with bad weight values. rep values we care less about. 
         df = df[df['Weight'].apply(lambda x: len(str(x)) >= 1)]
@@ -221,24 +222,58 @@ class gymDataProcessor():
 
 
 if __name__ == "__main__":
-    
-    # create the object and give it the data 
-    gymData = gymDataProcessor("outPutFile.txt") 
-    
-    # run its parse on the data to make us our DF
-    gymData.finalParsing()
+    data_file = "outPutFile.txt"
 
-    # print the DF
-    gymData.printDATFRAME()
+    input(
+        "Hello, this script parses out a messy iPhone note I made to keep track of gym data in 2022.\n"
+        "Submit any input (or just press Enter) to take a peek at the messy OG data: "
+    )
 
-    # Run a querry 
-    gymData.filterWhereXequalsY('Exercise', 'Skull Crushers')
+    try:
+        with open(data_file, "r") as f:
+            raw_lines = f.readlines()
+        print("\n--- MESSY OG DATA (first 20 lines) ---")
+        for line in raw_lines[:20]:
+            print(line.rstrip("\n"))
+        print("--- END PREVIEW ---\n")
+    except FileNotFoundError:
+        print(f"Could not find {data_file}. Continuing anyway...\n")
 
-    # print the result
+    input(
+        "Okay, now we're going to turn this into a pandas DataFrame.\n"
+        "Any input (or just Enter) to continue: "
+    )
+
+    gymData = gymDataProcessor(data_file)
+    df = gymData.finalParsing()
+
+    print("\n--- DATAFRAME PREVIEW (first 10 rows) ---")
+    print(df.head(10).to_string(index=False))
+    print("--- END PREVIEW ---\n")
+
+    print("Now all the messy human-data is a clean table. Now we can run a query on this dataframe!")
+    print("Shall we query for:")
+    print("1) Skull Crushers")
+    print("2) EZ Bar Curl")
+    print("3) Cable Row")
+
+    choice = input("Input a number (1/2/3): ").strip()
+
+    exercise_map = {
+        "1": "Skull Crushers",
+        "2": "EZ Bar Curl",
+        "3": "Cable Row",
+    }
+
+    exercise_choice = exercise_map.get(choice, "Skull Crushers")
+    if choice not in exercise_map:
+        print("Invalid choice. Defaulting to: Skull Crushers\n")
+
+    gymData.filterWhereXequalsY('Exercise', exercise_choice)
+
+    print(f"\n--- QUERY RESULT: {exercise_choice} ---")
     gymData.printLatestResult()
-
-    # save result as a csv file 
-    gymData.resultToCSV('SkullCrushers.csv')   
+    print("--- END RESULT ---\n")
 
 
     
