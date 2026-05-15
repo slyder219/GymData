@@ -1,4 +1,5 @@
 import pandas as pd
+from urllib.request import urlopen
 
 
 class gymDataProcessor():
@@ -6,6 +7,13 @@ class gymDataProcessor():
         self. dataFile = dataFile
         self.DATAFRAME = pd.DataFrame()
         self.latestResult = pd.DataFrame()
+
+    def _load_data(self):
+        if self.dataFile.startswith("http://") or self.dataFile.startswith("https://"):
+            with urlopen(self.dataFile) as response:
+                return response.read().decode("utf-8")
+        with open(self.dataFile, "r", encoding="utf-8") as f:
+            return f.read()
 
 
      # function to remove anything but digits and commas
@@ -53,10 +61,7 @@ class gymDataProcessor():
 
     # \/ Returns typeList of excersises 
     def dataToexcersies(self):
-
-        with open(self.dataFile, "r") as f:
-            data = f.read()
-            f.close()
+        data = self._load_data()
 
         perWorkoutData = data.split("\n\n")
         # data is now a list where each element is a workout
@@ -87,9 +92,7 @@ class gymDataProcessor():
 
     # \/ Returns a list of workouts
     def dataToWorkouts(self):
-        with open(self.dataFile, "r") as f:
-            data = f.read()
-            f.close()
+        data = self._load_data()
         perWorkoutData = data.split("\n\n")
         return perWorkoutData
 
@@ -167,9 +170,7 @@ class gymDataProcessor():
 
     def finalParsing(self):
         # Grab the content, this should have unique excersises
-        with open(self.dataFile, "r") as f:
-            content = f.read()
-            f.close()
+        content = self._load_data()
         # intialize a dataframe which we will add to as we parse the txt file
         df = pd.DataFrame(columns=['Date', 'Exercise', 'Weight', 'Reps'])
         # will look like this
@@ -196,7 +197,8 @@ class gymDataProcessor():
 
         print(df)
         # make csv
-        df.to_csv('DATAFRAME.csv', index=False)
+        # OG script.. but deprecated now for static/client-side showcase flow: df.to_csv('DATAFRAME.csv', index=False)
+        # Keep it in-script/in-memory via self.DATAFRAME and the returned df.
 
         # and save our pandas dataframe
         self.DATAFRAME = df
@@ -222,22 +224,32 @@ class gymDataProcessor():
 
 
 if __name__ == "__main__":
-    data_file = "outPutFile.txt"
+    data_file = "https://showcase.seanlyder.com/assets/gymdata.txt"
+    preview_lines = []
+
+    try:
+        with urlopen(data_file) as response:
+            preview_lines = response.read().decode("utf-8").splitlines()
+    except Exception:
+        data_file = "outPutFile.txt"
+        try:
+            with open(data_file, "r", encoding="utf-8") as f:
+                preview_lines = f.read().splitlines()
+        except FileNotFoundError:
+            preview_lines = []
 
     input(
         "Hello, this script parses out a messy iPhone note I made to keep track of gym data in 2022.\n"
         "Submit any input (or just press Enter) to take a peek at the messy OG data: "
     )
 
-    try:
-        with open(data_file, "r") as f:
-            raw_lines = f.readlines()
+    if preview_lines:
         print("\n--- MESSY OG DATA (first 20 lines) ---")
-        for line in raw_lines[:20]:
-            print(line.rstrip("\n"))
+        for line in preview_lines[:20]:
+            print(line)
         print("--- END PREVIEW ---\n")
-    except FileNotFoundError:
-        print(f"Could not find {data_file}. Continuing anyway...\n")
+    else:
+        print(f"Could not load source data from {data_file}. Continuing anyway...\n")
 
     input(
         "Okay, now we're going to turn this into a pandas DataFrame.\n"
